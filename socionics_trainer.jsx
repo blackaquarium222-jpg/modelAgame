@@ -189,7 +189,7 @@ export default function App() {
             <h1 style={{ fontWeight: 900, fontSize: 30, letterSpacing: "-0.03em", lineHeight: 1, color: INK }}>
               Model<span style={{ color: RED }}>·</span>A
             </h1>
-            <div style={{ fontSize: 13, fontWeight: 800, letterSpacing: ".34em", color: BLUE, marginTop: 4 }}>training</div>
+            <div style={{ fontSize: 13, fontWeight: 800, letterSpacing: ".34em", color: RED }}>Training</div>
           </div>
           <div className="text-right">
             <div style={{ fontSize: 9, fontWeight: 800, letterSpacing: ".18em", color: "#b08562" }}>STREAK</div>
